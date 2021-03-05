@@ -1,3 +1,3 @@
 # komola
 static for portfolio
-link: https://github.com/anvarmirzo/komola/
+ link: https://anvarmirzo.github.io/komola/
